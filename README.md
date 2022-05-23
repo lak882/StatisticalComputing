@@ -1,4 +1,4 @@
-# StatisticalComputing
+# Statistical Computing
 4 data science projects on pairs trading, baseball, global demographics, spam classification.
 
 # Pairs Trading
