@@ -2,7 +2,7 @@
 4 data science projects on pairs trading, baseball, global demographics, spam classification.
 
 * [Pairs Traiding](##pairs-traiding)
-* [Baseball](##baseball)
+* [Baseball](#baseball)
 * [Global Demographics](##global-demographics)
 * [Spam Classification](##spam-classification)
 
@@ -16,7 +16,7 @@
 ![alt text](/Documentation/ptr/ptr-7.png) 
 ![alt text](/Documentation/ptr/ptr-8.png) 
 ![alt text](/Documentation/ptr/ptr-9.png) 
-## Baseball 
+# Baseball 
 ![alt text](/Documentation/br/br-1.png) 
 ![alt text](/Documentation/br/br-2.png) 
 ![alt text](/Documentation/br/br-3.png) 
