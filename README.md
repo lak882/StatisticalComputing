@@ -1,12 +1,12 @@
 # Statistical Computing
 4 data science projects on pairs trading, baseball, global demographics, spam classification.
 
-* [Pairs Traiding](##pairs-traiding)
+* [Pairs Traiding](#pairs-traiding)
 * [Baseball](#baseball)
-* [Global Demographics](##global-demographics)
-* [Spam Classification](##spam-classification)
+* [Global Demographics](#global-demographics)
+* [Spam Classification](#spam-classification)
 
-## Pairs Traiding 
+# Pairs Traiding 
 ![alt text](/Documentation/ptr/ptr-1.png) 
 ![alt text](/Documentation/ptr/ptr-2.png) 
 ![alt text](/Documentation/ptr/ptr-3.png) 
@@ -16,6 +16,10 @@
 ![alt text](/Documentation/ptr/ptr-7.png) 
 ![alt text](/Documentation/ptr/ptr-8.png) 
 ![alt text](/Documentation/ptr/ptr-9.png) 
+* [Pairs Traiding](#pairs-traiding)
+* [Baseball](#baseball)
+* [Global Demographics](#global-demographics)
+* [Spam Classification](#spam-classification)
 # Baseball 
 ![alt text](/Documentation/br/br-1.png) 
 ![alt text](/Documentation/br/br-2.png) 
@@ -25,7 +29,11 @@
 ![alt text](/Documentation/br/br-6.png) 
 ![alt text](/Documentation/br/br-7.png) 
 ![alt text](/Documentation/br/br-8.png) 
-## Global Demographics 
+* [Pairs Traiding](#pairs-traiding)
+* [Baseball](#baseball)
+* [Global Demographics](#global-demographics)
+* [Spam Classification](#spam-classification)
+# Global Demographics 
 ![alt text](/Documentation/gdr/gdr-1.png) 
 ![alt text](/Documentation/gdr/gdr-2.png) 
 ![alt text](/Documentation/gdr/gdr-3.png) 
@@ -33,8 +41,12 @@
 ![alt text](/Documentation/gdr/gdr-5.png) 
 ![alt text](/Documentation/gdr/gdr-6.png) 
 ![alt text](/Documentation/gdr/gdr-7.png) 
-![alt text](/Documentation/gdr/gdr-8.png) 
-## Spam Classification 
+![alt text](/Documentation/gdr/gdr-8.png)
+* [Pairs Traiding](#pairs-traiding)
+* [Baseball](#baseball)
+* [Global Demographics](#global-demographics)
+* [Spam Classification](#spam-classification)
+# Spam Classification 
 ![alt text](/Documentation/sc/sc-1.png) 
 ![alt text](/Documentation/sc/sc-2.png) 
 ![alt text](/Documentation/sc/sc-3.png) 
@@ -42,5 +54,9 @@
 ![alt text](/Documentation/sc/sc-5.png) 
 ![alt text](/Documentation/sc/sc-6.png) 
 ![alt text](/Documentation/sc/sc-7.png) 
+* [Pairs Traiding](#pairs-traiding)
+* [Baseball](#baseball)
+* [Global Demographics](#global-demographics)
+* [Spam Classification](#spam-classification)
 ![alt text](/Documentation/sc/sc-8.png) 
 ![alt text](/Documentation/sc/sc-9.png) 
