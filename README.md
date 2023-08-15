@@ -5,9 +5,9 @@
 * [Baseball](#baseball)
 * [Global Demographics](#global-demographics)
 * [Spam Classification](#spam-classification)
-* 
+
 # Pairs Traiding
-![alt text](/Documentation/Pairs\ Trading Report/Pairs\ Trading\ Report-1.png) 
+![alt text](/Documentation/Pairs%20Trading Report/Pairs%20Trading%20Report-1.png) 
 ![alt text](/Documentation/Pairs Trading Report/Pairs Trading Report-2.png) 
 ![alt text](/Documentation/Pairs Trading Report/Pairs Trading Report-3.png) 
 ![alt text](/Documentation/Pairs Trading Report/Pairs Trading Report-4.png) 
