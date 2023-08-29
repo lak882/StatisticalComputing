@@ -1,4 +1,4 @@
-## Code for SQL Baseball
+## Code for SQL Baseball 
 
 library(RSQLite)
 driver <- dbDriver("SQLite")

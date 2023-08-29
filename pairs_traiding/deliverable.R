@@ -1,4 +1,4 @@
-## Deliverables For Pairs Traiding
+## Deliverables For Pairs Traiding 
 
 ## 1.
 graphics <- downloadStockPairDF("AMD", "NVDA", 2011, nyears=10)
